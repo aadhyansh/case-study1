@@ -1,0 +1,31 @@
+span
+{
+	color:rgb(24, 182, 32);
+	font-size: 16px;
+}	
+li img
+{
+	width: 200px;
+	border-radius: 20px;
+}
+.bob
+{
+	background: #8d0a82;
+	padding: 30px;
+	border-radius: 20px;
+	width: 50%;
+	display: inline-block;
+	box-shadow: 5px 5px 18px rgb(226, 150, 36);
+}
+b
+{
+	color: rgb(150, 207, 42);
+}
+
+.bob3
+{
+	text-align: center;
+	background: #dedddd;
+	border-radius: 20px;
+	padding: 10px;
+}
